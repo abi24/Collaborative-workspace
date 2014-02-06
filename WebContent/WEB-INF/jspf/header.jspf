@@ -1,0 +1,33 @@
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+    "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="css/index.css">
+<link type='text/css' href='css/footermenu.css' rel='stylesheet'
+	media='screen' />
+<title>Collaborative workspace</title>
+<link href="css/conference.css" rel="stylesheet" type="text/css">
+<script type="text/javascript"
+	src="https://ajax.aspnetcdn.com/ajax/knockout/knockout-2.2.1.js"></script>
+<script type="text/javascript"
+	src="https://api.bistri.com/bistri.conference.min.js?v=2"></script>
+<script type="text/javascript" src="js/conferencejs.js"></script>
+ </head>
+
+<body>
+
+	<div id="header">
+		<div id="logoWidth">
+			<a href="index"> <img src="images/co_work.png" id="logo"
+				alt="Co-Work logo">
+		</div>
+		<div id="logoTextWidth">
+			</a>
+			<p id="logoText">Collaborative Workspace</p>
+		</div>
+
+	</div>

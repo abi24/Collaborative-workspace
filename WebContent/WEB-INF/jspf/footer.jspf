@@ -1,0 +1,11 @@
+<!-- footer -->
+        <nav>
+            <ul id="appleNav">
+                <li><a href="contacts" title="Contacts">Contacts</a></li>
+                <li><a href="developers" title="Developers">Developers</a></li>
+                <li><a href="about-us" title="About us">About us</a></li>
+            </ul>
+        </nav>
+
+</body>
+</html>

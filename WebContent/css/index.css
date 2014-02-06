@@ -1,0 +1,80 @@
+body {
+	font-family: Arial, Helvetica, serif;
+	height: 100%;
+	text-align: center;
+	width: 100%;
+}
+
+ul,li {
+	list-style-type: none;
+}
+
+#main {
+	background: none repeat scroll 0 0 #0000FF;
+}
+
+#header {
+	background: none repeat scroll 0 0 #0000FF;
+	height: 30%;
+	width: 100%;
+}
+
+#logo {
+	float: left;
+	height: 100%;
+	margin-left: 53%;
+	margin-top: -5px;
+	width: 161px;
+}
+
+#logoWidth {
+	display: inline-block;
+	width: 28%;
+	height: 100%;
+	float: left;
+}
+
+#logoText {
+	color: #FFFFFF;
+	float: left;
+	font-family: serif, sans-serif;
+	font-size: 70px;
+	line-height: 186px;
+}
+
+#logoTextWidth {
+	display: inline-block;
+	width: 60%;
+	height: 100%;
+	float: left;
+}
+
+.welcome {
+	background-color: #0000FF;
+	height: 64%;
+	color: #FFFFFF;
+	font-family: serif;
+	font-size: 135%;
+	text-shadow: 0 0 6px rgba(255, 255, 255, 0.7);
+}
+
+#pad {
+	background-color: #0000FF;
+	float:left;
+	width: 98%;
+	color: #FFFFFF;
+	font-family: serif;
+	font-size: 165%;
+	text-shadow: 0 0 6px rgba(255, 255, 255, 0.7);
+}
+
+.home {
+	font-size: 200%;"WebContent/css/conference.css"
+}
+
+#launchButton {
+	width: 50%;
+	height: 10%;
+	font-family: serif;
+	font-size: 80%;
+}
